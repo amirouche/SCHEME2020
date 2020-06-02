@@ -1,0 +1,37 @@
+* data.hyper.dev
+** Basics
+*** Ask a (natural language) question, prolly get an answer
+*** Learn how to query the knowledge base programmatically
+*** Request for change
+** Developer
+*** Generate API key
+*** List API key
+*** Delete API key
+*** API Documentation
+**** CRUD changes
+**** Changes feed
+** Community
+*** Post a message
+*** Popular messages
+*** Hashtags
+*** Reactions
+*** Follow user
+*** Follow a change request
+*** Follow a hashtag
+*** Local timeline
+*** Your timeline
+*** Changes timeline
+** Moderation
+*** Kick
+*** Ban
+*** Invite
+*** Mute
+*** Block
+*** Report
+*** Review and validate changes
+** Profile / User
+*** Change password
+*** Change email
+*** Change bio
+** Meta
+*** Natural language query analysis

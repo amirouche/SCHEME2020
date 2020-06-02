@@ -2,6 +2,8 @@
 ((scheme-mode . ((indent-tabs-mode . nil)
 		 (tab-width . 2)
 		 (eval . (progn
+                           ;; scheme
+                           (put 'match 'scheme-indent-function 1)
                            ;; nanopass framework
                            (put 'with-output-language 'scheme-indent-function 1)
                            (put 'nanopass-case 'scheme-indent-function 2)
